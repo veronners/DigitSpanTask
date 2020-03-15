@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to the Digit Span Task
 
-You can use the [editor on GitHub](https://github.com/veronners/DigitSpanTask/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+For our experiment we have designed a Digit Span Task. We would like you (as one of our participant) to follow the next steps:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. In the following link you will be instructed on the task you are about to execute, once you are finished return to this guide:
+[Digit Span Task](https://github.com/veronners/DigitSpanTask/Experiment/index.html)
+2. Please upload the csv file that has automatically been downloaded to our [public drive](https://drive.google.com/folderview?id=1bYz1WDabzok8fATTUIavmNcKqm6Y4vO2).
+3. As a final step we are asking you to fill in our [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScNc55BP2ziegi7DfQDdn1T4LDEh_auxL0jcGZCyWwoxdmmBQ/viewform?usp=sf_link).
 
-### Markdown
+If you have not done it yet, please fill in the generic questionnaire posted by Makiko.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/veronners/DigitSpanTask/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you for participating in our experiment!
