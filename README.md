@@ -3,7 +3,7 @@
 For our experiment we have designed a Digit Span Task. We would like you (as one of our participant) to follow the next steps:
 
 1. In the following link you will be instructed on the task you are about to execute. Once you are finished return to this guide:
-[Digit Span Task](https://veronners.github.io/DigitSpanTask/Experiment/index.html)
+[Digit Span Task](https://veronners.github.io/DigitSpanTask/Experiment/index.html){:target="_blank"}
 2. Please upload the csv file, that has automatically been downloaded, to our [public drive](https://drive.google.com/drive/folders/1bYz1WDabzok8fATTUIavmNcKqm6Y4vO2?usp=sharing).
 3. As a final step, we are asking you to fill in our [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScNc55BP2ziegi7DfQDdn1T4LDEh_auxL0jcGZCyWwoxdmmBQ/viewform?usp=sf_link).
 
