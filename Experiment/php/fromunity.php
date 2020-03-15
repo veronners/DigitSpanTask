@@ -5,7 +5,7 @@
 	
 	if($doc_name != "")
 	{
-		$file = fopen($doc_name.".csv", "a");
+		$file = fopen($doc_name.".csv", "w");
 		fwrite($file, $song);
 		fwrite($file, $results);
 		fclose($file);
